@@ -1,0 +1,19 @@
+{
+  "name": "HashCode",
+  "description": "google Hashcode 2018 solution",
+  "author": "Michele Sartor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msartor92/GoogleHashCode2018.git"
+  },
+  "version": "1.0.0",
+  "main": "run.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "engines": {
+    "npm": ">= 3.0.0"
+  }
+}
